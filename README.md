@@ -23,7 +23,7 @@ Dự án thực hiện trong môn **Phát triển Hệ thống Thông tin Quản
 
 ---
 
-## 🏗 Nội dung chính
+##  Nội dung chính
 ### 1. Phân tích thực trạng
 - **SWOT Analysis**: Xác định 4 nhóm yếu tố (Điểm mạnh, Điểm yếu, Cơ hội, Thách thức).  
 - **Tài chính**: Công ty lỗ liên tiếp 15 quý, vốn điều lệ âm, áp lực nợ vay lớn.  
